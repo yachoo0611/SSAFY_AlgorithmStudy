@@ -17,7 +17,7 @@ public class Boj_2447 {
                 int x = i, y = j;
                 while(x > 0) {
                     if(x % 3 == 1 && y % 3 == 1) {
-                        break;
+                        break; 
                     }
 
                     x /= 3;
