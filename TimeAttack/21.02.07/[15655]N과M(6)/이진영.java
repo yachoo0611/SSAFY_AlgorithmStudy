@@ -58,4 +58,3 @@ public class 이진영 {
 	}
 
 }
-}
